@@ -1,6 +1,6 @@
 **Step 1:** To download:
 
-https://github.com/ramgpal/HTML_TailwindCSS_Starter_Pack.git
+git clone <https://github.com/ramgpal/HTML_TailwindCSS_Starter_Pack>
 
 **Step 2:** To run:
 
